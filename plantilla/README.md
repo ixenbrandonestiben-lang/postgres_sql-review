@@ -1,4 +1,3 @@
- # Documentación de la base de datos: plantilla
 
 ## 1. Nombre de la base de datos
 

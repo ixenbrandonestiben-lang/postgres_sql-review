@@ -1,4 +1,4 @@
- # Documentación de la base de datos: Tienda
+# Documentación de la base de datos: Tienda
 
 ## 1. Nombre de la base de datos
 

@@ -1,4 +1,3 @@
- # Documentación de la base de datos: ventas_vendedores
 
 ## 1. Nombre de la base de datos
 
